@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Extreme Tech/CLionProjects/TareaExtraclase1/Collector.h
+
+C:/Users/Extreme Tech/CLionProjects/TareaExtraclase1/List.h
+
+C:/Users/Extreme Tech/CLionProjects/TareaExtraclase1/Node.cpp
+Node.h
+C:/Users/Extreme Tech/CLionProjects/TareaExtraclase1/Node.h
+cstdlib
+-
+iostream
+-
+List.h
+C:/Users/Extreme Tech/CLionProjects/TareaExtraclase1/List.h
+Collector.h
+C:/Users/Extreme Tech/CLionProjects/TareaExtraclase1/Collector.h
+
+C:/Users/Extreme Tech/CLionProjects/TareaExtraclase1/Node.h
+iostream
+-
+stdlib.h
+-
+
